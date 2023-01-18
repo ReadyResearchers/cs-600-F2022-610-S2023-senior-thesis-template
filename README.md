@@ -133,7 +133,12 @@ it is expected that an exceptional senior thesis will exceed these requirements.
 Please consult the following sub-sections, as section requirements may have
 changed from requirements in previous years. All descriptions of each section
 are delimited by the understanding that sections should "include, but not be
-limited to" the areas highlighted.
+limited to" the areas highlighted. It is also important to note that students
+may, with the consent of their both their first and second readers, modify the
+structure of their senior thesis so that it includes, for instance, different
+chapters or different ordering of chapters. With that said, the final senior
+thesis that a student submits must still meet all of these baseline
+requirements.
 
 Also keep in mind that the typical instruction to
 
