@@ -49,8 +49,13 @@ requirements_ please refer to the following list for the entire senior thesis.
 Please note that your senior thesis chapters in CMPSC 600 will be evaluated
 according to the content that you submit in that course and your senior thesis
 chapters in CMPSC 610 will be evaluated according to all of the following
-baseline requirements. Please note that these are only baseline requirements and
-it is expected that an exceptional senior thesis will exceed these requirements.
+baseline requirements. This means that a student's work for CMPSC 600 will not
+be evaluated according to requirements that they could not yet fulfill until the
+completion of their senior thesis. For instance, the requirement that "The
+thesis consists of at least `7500` words" applies to a student's work in CMPSC
+610 and not CMPSC 600. Finally, please note that these are only baseline
+requirements and it is expected that an exceptional senior thesis will exceed
+these requirements.
 
 **General Thesis Requirements**:
   - [ ] The abstract provides a concise and compelling summary of the research
